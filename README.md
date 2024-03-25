@@ -26,4 +26,4 @@ Here we complete a simple webpage to display our model, you can type into your w
 To run this web page, you only need to run `python app.py`, then open the '情感分析.html' file.
 
 ### In the end
-It's just a very simple project which serves as the firsr homework of a humanities course. So, the model needs large amount of improvements to achieve better performance. Welcome to train your own model based on mine.
+It's just a very simple project which serves as the first homework of a humanities course. So, the model needs large amount of improvements to achieve better performance. Welcome to train your own model based on mine.
