@@ -1,5 +1,5 @@
 # Chinese-Text-Sentiment-Classifier
-This repo records my first assignment on the course Chinese Information Process(CIP)
+This repo records my first assignment on the course Introduction to Chinese Information Processing(CIP)
 
 Due to file size limitations, the datasets used to train the model are not uploaded to the warehouse.
 
